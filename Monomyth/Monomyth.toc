@@ -1,0 +1,7 @@
+## Interface: 30300
+## Author: p3lim, FXPW, Apolexis
+## Version: 1.0
+## Title: Monomyth
+## Notes: Авто сдача и принятие квестов
+
+Monomyth.lua
